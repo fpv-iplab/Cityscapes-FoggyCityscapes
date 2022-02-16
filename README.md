@@ -26,7 +26,7 @@ The dataset contains 6950 annotations and images (3475 for the source and 3475 f
     </ul>
 </ul>  
 
-# [Download](https://iplab.dmi.unict.it/EGO-CH-OBJ-UDA/Cityscapes-FoggyCityscapes.zip)
+## [Download](https://iplab.dmi.unict.it/EGO-CH-OBJ-UDA/Cityscapes-FoggyCityscapes.zip)
 
 ## Contributor and Citation
 If you use this dataset for your experiments, please cite the authors Cityscapes [paper](https://www.cityscapes-dataset.com/citation/)<br>
