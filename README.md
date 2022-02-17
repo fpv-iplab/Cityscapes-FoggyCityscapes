@@ -1,6 +1,8 @@
 # Cityscapes-FoggyCityscapes Dataset
 Edited version of Cityscapes to Foggy Cityscapes dataset for Unsupervised Domain Adaptation for Object Detection.
 
+<center><img src='samplesImages.png' width=100%/></center>
+
 ## Dataset Structure
 The dataset contains 6950 annotations and images (3475 for the source and 3475 for the target) splitted as follow:
 <ul>
