@@ -41,4 +41,5 @@ Related Domain Adaptation Object Detectors:<br>
 [DA-RetinaNet](https://github.com/fpv-iplab/DA-RetinaNet)<br>
 [DA-Faster RCNN](https://github.com/yuhuayc/da-faster-rcnn)<br>
 [Strong Weak](https://github.com/VisionLearningGroup/DA_Detection)<br>
-[STMDA-RetinaNet](https://github.com/fpv-iplab/STMDA-RetinaNet)
+[STMDA-RetinaNet](https://github.com/fpv-iplab/STMDA-RetinaNet)<br>
+[CDSSL](https://arxiv.org/pdf/1911.07158.pdf)
