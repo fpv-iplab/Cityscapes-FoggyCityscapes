@@ -39,6 +39,7 @@ If you use this dataset for your experiments leave a star ⭐
 # Other Works
 Related Domain Adaptation Object Detectors:<br>
 [DA-RetinaNet](https://github.com/fpv-iplab/DA-RetinaNet)<br>
+[Detectron2 implementation of DA-Faster RCNN](https://github.com/GiovanniPasq/DA-Faster-RCNN)
 [DA-Faster RCNN](https://github.com/yuhuayc/da-faster-rcnn)<br>
 [Strong Weak](https://github.com/VisionLearningGroup/DA_Detection)<br>
 [STMDA-RetinaNet](https://github.com/fpv-iplab/STMDA-RetinaNet)<br>
